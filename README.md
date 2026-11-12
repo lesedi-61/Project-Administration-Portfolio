@@ -38,6 +38,26 @@ The site presents my project administration skills through a simulated portfolio
 
 Documents open as page-by-page screenshots in a viewer (previous/next arrows, page counter, keyboard support). Only the CV can be downloaded.
 
+## Document previews
+
+A few of the simulated project documents. The full set can be viewed page by page on the [live site](https://morabalesediportfolio.netlify.app/).
+
+### Project Schedule
+![Project Schedule: tasks, start and end dates, responsible person and status](project_schedule.png)
+
+### Task Tracker
+![Task Tracker: task descriptions, owners, due dates, status and progress](Track_tracker.png)
+
+### Risk Register
+![Risk Register: risks, probability, impact, mitigation actions and owners](Risk_Register.png)
+
+### Gantt Chart
+![Gantt Chart: task list with the first days of the timeline](gantChart1.png)
+
+![Gantt Chart: timeline bars across November 2026](gant2.png)
+
+*These documents belong to a simulated portfolio project. The project is proposed only, and nothing in it was implemented.*
+
 ## Features
 
 - Sticky navigation with active-section highlighting and a mobile menu
@@ -61,6 +81,11 @@ Documents open as page-by-page screenshots in a viewer (previous/next arrows, pa
 ├── index.html                  # The whole website (HTML, CSS and JavaScript)
 ├── README.md
 ├── .nojekyll
+├── project_schedule.png        # Images displayed in this README
+├── Track_tracker.png
+├── Risk_Register.png
+├── gantChart1.png
+├── gant2.png
 └── assets/
     ├── Lesedi_Moraba_CV.pdf    # CV (copy of the downloadable file)
     ├── cv/                     # CV page images shown by "View CV"
